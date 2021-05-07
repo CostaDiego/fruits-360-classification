@@ -130,3 +130,6 @@ dmypy.json
 
 # Ignore Dataset
 data*
+
+#Ignore the model folder
+model*
